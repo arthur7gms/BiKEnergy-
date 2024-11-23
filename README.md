@@ -7,3 +7,5 @@ A ideia visa o estimulo ao uso de meios de transportes sustentaveis, geração d
 Toda ideia e execução do projeto da Global Solution foram feitos por Arthur Gomes, Matheus Siroma e Pedro Estevam.
 
 Link para o Github Pages: aa
+
+Link do Github pages: https://arthur7gms.github.io/BiKEnergy-/
